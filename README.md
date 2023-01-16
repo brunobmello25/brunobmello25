@@ -1,6 +1,5 @@
 # Bruno Mello
-
-[![Twitter Badge](https://img.shields.io/badge/-@brunobmello25-00875f?style=flat-square&labelColor=00875f&logo=twitter&logoColor=white&link=https://twitter.com/brunobmello25)](https://twitter.com/brunobmello25) 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Mello-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobmello25/)](https://www.linkedin.com/in/brunobmello25/) 
 [![Gmail Badge](https://img.shields.io/badge/-bruno.barros.mello@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.barros.mello@gmail.com)](mailto:bruno.barros.mello@gmail.com)
 
